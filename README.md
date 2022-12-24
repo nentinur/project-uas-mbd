@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1> Pendataan Nilai Siswa</h1> 
+  <h1> Pendataan Nilai UN Siswa</h1> 
   <p>Untuk Memenuhi Tugas Akhir Mata Kuliah Manajemen Basis Data Praktikum Managemen Basis Data</p> 
   <p>Dosen pengampu:
 Wildan Budiawan Zulfikar S.T., M.Kom dan Eva Nurlatifah M.Sc.</p>
@@ -13,7 +13,7 @@ Wildan Budiawan Zulfikar S.T., M.Kom dan Eva Nurlatifah M.Sc.</p>
 
 ### Deskripsi Proyek 
 
-Website pendataan nilai siswa adalah website yang bertujuan untuk mendata nilai- nilai siswa agar lebih terstruktur dan data disimpan baik didalan database sehinggan data tidak mudah hilang.
+Website pendataan nilai UN siswa adalah website yang bertujuan untuk mendata nilai- nilai siswa agar lebih terstruktur dan data disimpan baik didalan database sehinggan data tidak mudah hilang.
 Website ini menggunakan database yang sudah ditentukan sebelumnya yaitu SQLite. SQLite adalah database berukuran terbatas yang dapat digunakan untuk aplikasi berskala kecil. Website kami juga menggunakan PHP dan Bootstrap untuk menunjang dalam pembuatan wesite ini.
 
 <h3 align="left">Teknologi yang digunakan :</h3>
@@ -22,4 +22,16 @@ Website ini menggunakan database yang sudah ditentukan sebelumnya yaitu SQLite. 
 ### Intalisasi Database SQLite
 Install database SQLite pada : https://www.sqlite.org/download.html
 pilih sesuai dengan sistem operasi dan kapasitas pc atau laptop anda.
-![foto intalisasi](
+  
+![foto intalisasi](https://github.com/nentinur/project-uas-mbd/blob/master/img/MBD-Intalisasi%20SQLite.png)
+
+Setelah selesai mendownloadnya, kemudian extract file nya.
+  
+![foto extract zip](https://github.com/nentinur/project-uas-mbd/blob/master/img/MBD-Extract%20ZIP.png)
+  
+Selanjutnya lakukan setting path pada enverioment variable seperti gambar dibawah ini.
+
+![foto setting path1](https://github.com/nentinur/project-uas-mbd/blob/master/img/MBD-Setting%20PATH1.png)
+  
+![foto setting path2](https://github.com/nentinur/project-uas-mbd/blob/master/img/MBD-Setting%20PATH2.png)
+  

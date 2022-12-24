@@ -5,7 +5,7 @@
 Wildan Budiawan Zulfikar S.T., M.Kom dan Eva Nurlatifah M.Sc.</p>
 </div>
 
-#### Kelompok 2 Kelas E Manajemen Basis Data
+### Kelompok 2 Kelas E Manajemen Basis Data
 
 - Nenti Nurnaningsih (1207050090)
 - Normalika Shandi (1207050091)
@@ -38,4 +38,32 @@ edit environent variable pada sistem variable. klik PATH lalu klik edit, kemudia
 ![foto setting path2](https://github.com/nentinur/project-uas-mbd/blob/master/img/MBD-Setting%20PATH2.png)
   
 ### DEMO CRUD
+Tampilan awal saat web dibuka, untuk menambah data, bisa langsung klik tambah data
+![tampilan awal](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/tampilan-awal.png)
 
+Kemudian kita akan diarahkan ke halaman tambah data, selanjutnya kita isi formnya
+![tampilan tambah data ](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/tambah-data.png)
+
+Saat meng-klik tambah data, jika data berhasil ditambahkan di database, maka akan tampil tulisan "data berhasil ditambahkan"
+![data berhasil ditambahkan](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/tambah-data2.png)
+
+Dan data yang tadi kita tambahkan akan tampil di halaman awal
+![data ditambahkan](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/setelah-tambah-data.png)
+
+Untuk mengantisipasi kesalahan dalam penginputan nilai, kami menyediakan menu untuk mengupdate data, untuk update data, kita bisa langsung klik tombol ubah data, dan kita akan diarahkan ke halaman ubah data
+![ubah data](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/ubah-data.png)
+
+Selanjutnya kita tinggal mengganti data yang ingin dirubah, dan jika data berhasil diupdate di database, maka akan tampilan tulisan "data berhasil diubah"
+![ubah data 2](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/ubah-data2.png)
+
+Data yang sudah diperbarui akan ditampilkan di halaman awal
+![berhasil diupdate](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/setelah-ubah-data.png)
+
+Jika ingin menghapus data, kita bisa klik tombol hapus, dan nantinya akan keluar dialog untuk memvalidasi tindakan kita, yakin untuk menghapus atau tidak
+![hapus](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/hapus-data.png)
+
+Setelah klik Ok, maka data akan terhapus
+![berhasil hapus](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/hapus-data2.png)
+
+### Video Demo Youtube
+[link video Youtube](https://youtu.be/iudBOzzKRcw)

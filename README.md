@@ -31,6 +31,8 @@ Setelah selesai mendownloadnya, kemudian extract file nya.
   
 Selanjutnya lakukan setting path pada enverioment variable seperti gambar dibawah ini.
 
+edit environent variable pada sistem variable. klik PATH lalu klik edit, kemudian tambahkan folder tempat menyimpan SQLitenya (contoh : C:\sqlite3 )
+
 ![foto setting path1](https://github.com/nentinur/project-uas-mbd/blob/master/img/MBD-Setting%20PATH1.png)
   
 ![foto setting path2](https://github.com/nentinur/project-uas-mbd/blob/master/img/MBD-Setting%20PATH2.png)

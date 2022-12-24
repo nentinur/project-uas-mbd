@@ -5,7 +5,7 @@
 Wildan Budiawan Zulfikar S.T., M.Kom dan Eva Nurlatifah M.Sc.</p>
 </div>
 
-#### Kelompok 2 Kelas E Manajemen Basis Data
+### Kelompok 2 Kelas E Manajemen Basis Data
 
 - Nenti Nurnaningsih (1207050090)
 - Normalika Shandi (1207050091)
@@ -63,5 +63,7 @@ Jika ingin menghapus data, kita bisa klik tombol hapus, dan nantinya akan keluar
 ![hapus](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/hapus-data.png)
 
 Setelah klik Ok, maka data akan terhapus
-[berhasil hapus](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/hapus-data2.png)
+![berhasil hapus](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/hapus-data2.png)
 
+### Video Demo Youtube
+[link video Youtube](https://youtu.be/iudBOzzKRcw)

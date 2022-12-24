@@ -38,4 +38,33 @@ edit environent variable pada sistem variable. klik PATH lalu klik edit, kemudia
 ![foto setting path2](https://github.com/nentinur/project-uas-mbd/blob/master/img/MBD-Setting%20PATH2.png)
   
 ### DEMO CRUD
+Tampilan awal saat web dibuka, untuk menambah data, bisa langsung klik tambah data
+![tampilan awal](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/MBD-Tampilan%20awal.jpg)
+
+tampilan awal halaman tambah data
+![tampilan tambah data](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/MBD-Tampilan%20Taambah%20data.jpg)
+
+Kemudian kita isi formnya
+![tampilan tambah data 2](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/MBD-Tampilan%20Taambah%20data2.jpg)
+
+Saat meng-klik tambah data, jika data berhasil ditambahkan di database, maka akan tampil tulisan "data berhasil ditambahkan"
+![data berhasil ditambahkan](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/MBD-Tampilan%20data%20berhasil%20ditambahkan.jpg)
+
+Dan data yang tadi kita tambahkan akan tampil di halaman awal
+![data ditambahkan](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/MBD-Tampilan%20setelah%20data%20di%20tambah.jpg)
+
+Untuk mengantisipasi kesalahan dalam penginputan nilai, kami menyediakan menu untuk mengupdate data, untuk update data, kita bisa langsung klik tombol ubah data, dan kita akan diarahkan ke halaman ubah data
+![ubah data](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/MBD-Tampilan%20update%20data.jpg)
+
+Selanjutnya kita tinggal mengganti data yang ingin dirubah
+![ubah data 2](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/MBD-Tampilan%20update%20data2.jpg)
+
+setelah meng-klik perbarui data, maka data akan diperbarui dan akan ditampilkan di halaman awal
+![berhasil diupdate](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/MBD-Tampilan%20data%20berhasil%20diupdate.jpg)
+
+Jika ingin menghapus data, kita bisa klik tombol hapus, dan nantinya akan keluar dialog untuk memvalidasi tindakan kita, yakin untuk menghapus atau tidak
+![hapus](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/MBD-Tampilan%20hapus%20data.jpg)
+
+Setelah klik Ok, maka data akan terhapus
+[berhasil hapus](https://github.com/nentinur/project-uas-mbd/blob/master/img/CRUD/MBD-Tampilan%20setelah%20hapus%20data.jpg)
 

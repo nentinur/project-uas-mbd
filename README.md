@@ -17,8 +17,9 @@ Website pendataan nilai siswa adalah website yang bertujuan untuk mendata nilai-
 Website ini menggunakan database yang sudah ditentukan sebelumnya yaitu SQLite. SQLite adalah database berukuran terbatas yang dapat digunakan untuk aplikasi berskala kecil. Website kami juga menggunakan PHP dan Bootstrap untuk menunjang dalam pembuatan wesite ini.
 
 <h3 align="left">Teknologi yang digunakan :</h3>
-<p align="left"> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.esoftner.com/wp-content/uploads/2019/12/SQLite-Logo-300x300.png" alt="SQLite" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.esoftner.com/wp-content/uploads/2019/12/SQLite-Logo-300x300.png" alt="SQLite" width="40" height="40"/> </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/meta-image.png" alt="PHP" width="40" height="40"/> </a>  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" alt="Bootstrap" width="40" height="40"/> </a>  
 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/meta-image.png" alt="PHP" width="40" height="40"/> </a>  
-
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" alt="Bootstrap" width="40" height="40"/> </a>  
+### Intalisasi Database SQLite
+Install database SQLite pada : https://www.sqlite.org/download.html
+pilih sesuai dengan sistem operasi dan kapasitas pc atau laptop anda.
+![foto intalisasi](
